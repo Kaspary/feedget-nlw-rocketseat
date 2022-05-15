@@ -49,7 +49,7 @@ npm install
 
 - Variáveis de ambiente
     - Copiar o arquivo `env.example` para `.env`
-    - Preencher com os valores do ambiente
+    - Preencher o arquivo `.env` com os valores do ambiente
 
 - Executar o serviço
 ```
